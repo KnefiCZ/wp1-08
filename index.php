@@ -5,7 +5,7 @@
     <title>kok</title>
   </head>
   <body>
-<h1>Hra</h1>
+<h1>Thaumcraft</h1>
 <?php
     $Humanus = True ;
     $Instrument = True ;
